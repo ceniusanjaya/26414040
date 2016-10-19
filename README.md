@@ -1,5 +1,5 @@
 # Readme First
-Saya membuat repository baru karena lagi-lagi saya tidak dapat commit melalui terminal, dan saya akhirnya membuat ulang repositorynya dan mengupload ulang, tetapi saya beri tanda file-file dengan format "Minggu..."
+Saya membuat repository baru karena lagi-lagi saya tidak dapat commit melalui terminal karena corrupt di keterangan saat push ke github, dan saya akhirnya membuat ulang repositorynya dan mengupload ulang yang ke 2x nya, tetapi saya beri tanda file-file dengan format "Minggu..."
 
 - Perbedaan dengan repository sebelumnya adalah saya salah pemberian nama beserta informasinya.
 - Berikut keterangannya sesungguhnya dan saya edit nama filenya agar tidak bingung :
