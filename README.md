@@ -1,5 +1,5 @@
 # Readme First
-Saya membuat repository baru karena lagi-lagi saya tidak dapat push melalui terminal karena corrupt di keterangan saat push ke github, dan saya akhirnya membuat ulang repositorynya dan mengupload ulang yang ke 2x nya, selain itu saya beri format file-file dengan format "Minggu..." beserta keterangannya agar rapi dan dapat dimengerti. 
+Maaf saya membuat repository baru karena lagi-lagi saya tidak dapat push melalui terminal karena corrupt di keterangan saat push ke github, dan saya akhirnya membuat ulang repositorynya dan mengupload ulang yang ke 2x nya, selain itu saya beri format file-file dengan format "Minggu..." beserta keterangannya agar rapi dan dapat dimengerti. 
 
 - Untuk bukti Screenshot-nya kalau saya tidak berbohong bisa diliat file SS_1.jpg dan SS_2.jpg beserta SS_README.md untuk keterangannya.
 - Perbedaan dengan repository sebelumnya adalah saya salah pemberian nama beserta keterangannya dan terlihat rapi yang sekarang.
