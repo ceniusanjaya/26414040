@@ -10,7 +10,9 @@ Maaf saya membuat repository baru karena lagi-lagi saya tidak dapat push melalui
 - Minggu3 = Latihan saya untuk tanggal 22-28 September 2016 ( >=5 Commit )
 - Minggu4 = Latihan saya untuk tanggal 29 September - 5 Oktober 2016 ( 2 Commit )
 - Minggu5 = Tidak ada, karena saya pikir saat periode UTS tidak perlu push commit apapun ( 0 Commit )
-- Minggu6 = Latihan saya untuk tanggal 13-19 Oktober 2016 ( On Progress )
+- Minggu6 = Latihan saya untuk tanggal 13-19 Oktober 2016 ( 5 Commit )
+- Minggu7 = Latihan saya untuk tangaal 20-26 Oktober 2016 ( 5 Commit )
+- Minggu8 = Latihan saya untuk tanggal 27 Oktober - 2 November 2016 (On Progress) 
 
 
 # Sistem Penilaian Jumlah Commit
