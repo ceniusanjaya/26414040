@@ -18,7 +18,6 @@ Maaf saya membuat repository baru karena lagi-lagi saya tidak dapat push melalui
 - Minggu11 = Latihan saya untuk tanggal 17-23 November 2016 (5 Commit)
 - Minggu12 = Latihan saya untuk tanggal 24-30 November 2016 (6 Commit)
 
-
 # Sistem Penilaian Jumlah Commit
 Jika di setiap minggu :
  - 5x / lebih commit	= 100
@@ -27,3 +26,6 @@ Jika di setiap minggu :
  - 2x Commit = 68
  - 1x Commit = 60
  - 0x Commit = 0
+
+# Untuk Pembagian Tugas Project bisa dilihat file dengan nama Pembagian Tugas Proyek TOS.txt
+# Untuk File Project Game Quiz bernama proyektosQuiz Fix Final.rar
