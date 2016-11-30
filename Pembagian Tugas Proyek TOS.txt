@@ -1,0 +1,3 @@
+Cenius Sanjaya - Game Online/Offline, Change Password, Search by Username, Play Customize, Insert Update Delete Game Customize, and more
+Nathanael Adi - Admin Panel (Insert Update Delete Soal), Show Highschore
+Darmawan Hadip - Login, Register, Show and Edit Profile 
