@@ -27,5 +27,9 @@ Jika di setiap minggu :
  - 1x Commit = 60
  - 0x Commit = 0
 
-# Untuk Pembagian Tugas Project bisa dilihat file dengan nama Pembagian Tugas Proyek TOS.txt
-# Untuk File Project Game Quiz bernama proyektosQuiz Fix Final.rar
+# About Project GAME QUIZ TOS
+- Untuk File Project Game Quiz bernama proyektosQuiz Fix Final.rar
+- Untuk Pembagian Tugas Project bisa dilihat file dengan nama Pembagian Tugas Proyek TOS.txt
+- Untuk Fitur dan bahasa apa saja yang digunakan bisa dilihat file dengan nama Project Game Quiz Fitur dan Bahasa.pptx
+
+# THANKS GOD BLESS YOU
