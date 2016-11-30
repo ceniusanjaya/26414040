@@ -4,5 +4,5 @@
 - Instagram Twitter : ceniusanjaya
 - Id Steam : ceniusanjaya
 - Fp : ceniusanjaya
-- Please Suscribe my Channel (Video on Progress)
+- Please Suscribe my Channel
 - Link : goo.gl/48VwSh
