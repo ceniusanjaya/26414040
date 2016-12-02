@@ -24,13 +24,4 @@ Maaf saya membuat repository baru karena lagi-lagi saya tidak dapat push melalui
 - Minggu11 = Latihan saya untuk tanggal 17-23 November 2016 (5 Commit)
 - Minggu12 = Latihan saya untuk tanggal 24-30 November 2016 (>5 Commit)
 
-# Sistem Penilaian Jumlah Commit
-Jika di setiap minggu :
- - 5x / lebih commit	= 100
- - 4x Commit = 85
- - 3x Commit = 75
- - 2x Commit = 68
- - 1x Commit = 60
- - 0x Commit = 0
-
 # THANKS GOD BLESS YOU
