@@ -1,3 +1,9 @@
+# About Project GAME QUIZ TOS
+- Untuk cara menjalankan projectnya bisa dilihat di file dengan nama "How To Running the Project.txt"
+- Untuk pembagian Tugas Project bisa dilihat file dengan nama "Pembagian Tugas Proyek TOS.txt"
+- Untuk fitur dan bahasa apa saja yang digunakan bisa dilihat file dengan nama "Project Game Quiz Fitur dan Bahasa.pptx"
+- Untuk progress file sampai final bisa di lihat file dengan nama "Proyek TOS - Quiz - Progress 1.rar" sampai  "Proyek TOS - Quiz - Progress 6 Final END.rar"
+
 # Readme First
 Maaf saya membuat repository baru karena lagi-lagi saya tidak dapat push melalui terminal karena corrupt di keterangan saat push ke github, dan saya akhirnya membuat ulang repositorynya dan mengupload ulang yang ke 2x nya, selain itu saya beri format file-file dengan format "Minggu..." beserta keterangannya agar rapi dan dapat dimengerti. 
 
@@ -26,10 +32,5 @@ Jika di setiap minggu :
  - 2x Commit = 68
  - 1x Commit = 60
  - 0x Commit = 0
-
-# About Project GAME QUIZ TOS
-- Untuk File Project Game Quiz bernama proyektosQuiz Fix Final.rar
-- Untuk Pembagian Tugas Project bisa dilihat file dengan nama Pembagian Tugas Proyek TOS.txt
-- Untuk Fitur dan bahasa apa saja yang digunakan bisa dilihat file dengan nama Project Game Quiz Fitur dan Bahasa.pptx
 
 # THANKS GOD BLESS YOU
