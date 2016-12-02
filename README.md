@@ -22,7 +22,7 @@ Maaf saya membuat repository baru karena lagi-lagi saya tidak dapat push melalui
 - Minggu9 = Latihan saya untuk tanggal 3-9 November 2016 (5 Commit)
 - Minggu10 = Latihan saya untuk tanggal 10-16 November 2016 (5 Commit)
 - Minggu11 = Latihan saya untuk tanggal 17-23 November 2016 (5 Commit)
-- Minggu12 = Latihan saya untuk tanggal 24-30 November 2016 (6 Commit)
+- Minggu12 = Latihan saya untuk tanggal 24-30 November 2016 (>5 Commit)
 
 # Sistem Penilaian Jumlah Commit
 Jika di setiap minggu :
