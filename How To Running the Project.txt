@@ -1,0 +1,47 @@
+Cara Running Project :
+1. Download Jetbrains Pycharm Community (Free) atau yang Professional 
+   (atau mungkin software python lainnya)
+2. Open Project
+3. Jika diminta untuk menginstall package langsung saja install saran yang biasanya 
+   muncul di bagian atas atau bawah
+4. Jika install gagal buka file -> default settings -> project interpreter -> pilih python 2.7.11
+   -> klik tanda + di bagian kanan -> pilih library yang -> centang specify version -> pilih versi
+   terbaru -> install package
+   Nb : untuk install to user's site packages directory tetap di centang saja
+5. Jika ingin update version terbaru klik 2x package yang kamu punya centang specify version
+   kemudian pilih yang teratas/terbaru
+6. Selamat mencoba
+
+
+
+Library yang ada di jetbrains saya :
+Django
+Flask
+Flask-MySQLdb
+Jinja2
+Mako
+MarkupSafe
+Pillow
+PyAudio
+PyRQ
+Send2Trash
+Werkzeug
+argparse
+beautifulsoup4
+bs4
+configobj
+docutils
+eventlet
+future
+greenlet
+httplib2
+image
+itsdangerous
+mysql-connector-repackaged
+mysqlclient
+nose-for-sneeze
+pip
+pygame
+pyglet
+setuptools
+six
