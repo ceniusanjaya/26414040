@@ -1,5 +1,5 @@
 # About Project GAME QUIZ TOS
-- Untuk cara menjalankan projectnya bisa dilihat di file dengan nama "How To Running the Project.txt"
+- Untuk cara menjalankan projectnya bisa dilihat di file dengan nama "Project TOS - How To Running the Project.txt"
 - Untuk pembagian Tugas Project bisa dilihat file dengan nama "Pembagian Tugas Proyek TOS.txt"
 - Untuk fitur dan bahasa apa saja yang digunakan bisa dilihat file dengan nama "Project Game Quiz Fitur dan Bahasa.pptx"
 - Untuk progress file sampai final bisa di lihat file dengan nama "Proyek TOS - Quiz - Progress 1.rar" sampai  "Proyek TOS - Quiz - Progress 6 Final END.rar"
